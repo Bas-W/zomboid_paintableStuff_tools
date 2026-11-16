@@ -1,0 +1,7 @@
+title=Paintable Stuff - Tools
+version=0.1.0
+description=Allows a selection of tools to be painted.
+description=
+description=Requires "Paintable Stuff".
+tags=
+visibility=public

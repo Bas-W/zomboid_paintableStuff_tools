@@ -1,5 +1,5 @@
 title=Paintable Stuff - Tools
-version=0.1.0
+version=0.1.2
 description=Allows a selection of tools to be painted.
 description=
 description=Requires "Paintable Stuff".

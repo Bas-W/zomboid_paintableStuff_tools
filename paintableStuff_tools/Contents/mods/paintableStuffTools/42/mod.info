@@ -1,5 +1,5 @@
 name=Paintable Stuff - Tools
-modversion=0.1.4
+modversion=0.1.5
 author=TeaStain
 id=tsPaintableStuffTools
 description=Allows a selection of tools to be painted. Requires "Paintable Stuff".

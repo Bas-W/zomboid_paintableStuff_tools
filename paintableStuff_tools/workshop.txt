@@ -1,7 +1,7 @@
 title=Paintable Stuff - Tools
-version=0.1.5
+version=1.0.0
 description=Allows a selection of tools to be painted.
 description=
 description=Requires "Paintable Stuff".
-tags=Build 42;Items;QoL
+tags=Build 42;Items
 visibility=public
